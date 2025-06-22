@@ -1,2 +1,2 @@
 # ARM64-Assembly-Exercises
-Me learn ARM64 assembly, beep boop .... Segmentation fault, core dumped 😓
+Trying to wrap my head around ARM64 assembly, starting with some simple exercises.
